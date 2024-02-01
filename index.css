@@ -1,0 +1,29 @@
+
+.numberlabel{
+    display: block;
+    text-align: center;
+    font-size: 150px;
+    color: aqua;
+
+    }
+.controller{
+    text-align: center;
+    font-size: 150px;
+    color: blue;
+    margin-top: 0px;
+    margin-bottom:500px;
+}
+.btn{
+    padding: 20px 15px;
+    border-radius: 50%;
+    background-color: #e5f745;
+    color: rgb(26, 63, 51);
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: .3s;
+
+    
+}
+.btn:hover{
+    background-color: rgb(13, 4, 60);
+}
